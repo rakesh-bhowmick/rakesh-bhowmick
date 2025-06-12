@@ -37,7 +37,7 @@ Currently working with **React Native**, **Next.js**, **Fastify**, and **Directu
 
 ### 🎨 UI/Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### 🚀 Deployment & Hosting
