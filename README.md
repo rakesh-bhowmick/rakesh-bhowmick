@@ -48,13 +48,13 @@ Currently working with **React Native**, **Next.js**, **Fastify**, and **Directu
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📈 GitHub Stats
+## 🧮 Open Source Journey
 
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-bhowmick&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-bhowmick&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-bhowmick&layout=compact&theme=tokyonight)
 
 ---
 
