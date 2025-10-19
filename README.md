@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakesh Bhowmick
+# 👋 (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Rakesh Bhowmick
 
 I'm a Full-Stack Web & App Developer who loves turning ideas into scalable apps.  
 Currently working with **React Native**, **Next.js**, **Fastify**, and **Directus** to build modern mobile and web applicatios.
