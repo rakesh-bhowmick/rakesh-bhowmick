@@ -60,5 +60,5 @@ Currently working with **React Native**, **Next.js**, **Fastify**, and **Directu
 
 ## Connect With Me
 
-- 📧 Email: rakeshbhowmick.dev@gmail.com  
-- 📝 LinkedIn: [linkedin.com/in/rakesh-bhowmick-16a66b267](https://www.linkedin.com/in/rakesh-bhowmick-16a66b267/)
+- Email: rakeshbhowmick.dev@gmail.com  
+- LinkedIn: [linkedin.com/in/rakesh-bhowmick-16a66b267](https://www.linkedin.com/in/rakesh-bhowmick-16a66b267/)
