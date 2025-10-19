@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakesh Bhowmick
+# Hi, I'm Rakesh Bhowmick
 
 I'm a Full-Stack Web & App Developer who loves turning ideas into scalable apps.  
 Currently working with **React Native**, **Next.js**, **Fastify**, and **Directus** to build modern mobile and web applicatios.
