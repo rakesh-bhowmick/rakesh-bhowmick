@@ -54,7 +54,7 @@ Currently working with **React Native**, **Next.js**, **Fastify**, and **Directu
 ## Open Source Journey
 
 ![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakesh-bhowmick&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-bhowmick&layout=compact&theme=tokyonight&cache_seconds=1800](https://img.shields.io/badge/TS-281432?logo=tsnode))
+![Top Languages](https://img.shields.io/badge/TS-281432?logo=tsnode)
 
 ---
 
