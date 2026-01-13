@@ -53,8 +53,10 @@ Currently working with **React Native**, **Next.js**, **Fastify**, and **Directu
 
 ## Open Source Journey
 
-![Rakesh's GitHub stats](https://img.shields.io/badge/javascript-4B4B77?logo=JavaScript)
-![Top Languages](https://img.shields.io/badge/TypeScript-281432?logo=tsnode)
+![GitHub followers](https://img.shields.io/github/followers/rakesh-bhowmick?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/rakesh-bhowmick?label=Total%20Stars&style=flat)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Open%20Source-blue)
+
 
 ---
 
